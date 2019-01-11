@@ -1,0 +1,13 @@
+define schema and contract
+sqlite create pudate insert delete
+major features of sqlite
+activity life cycle
+architecture of android
+features of android.
+intent
+
+black white box testing
+plusing on google play
+mnetization and promotion
+VICKY AUDIO
+
